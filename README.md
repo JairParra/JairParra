@@ -1,7 +1,9 @@
 <!-- Banner Image -->
+<!--
 <p align="center">
-  <img src="https://github.com/<your-username>/assets/banner.png" alt="Banner Image">
+  <img src="" alt="Banner Image">
 </p>
+--> 
 
 # 👋 Hello, I'm Jair 
 
